@@ -13,9 +13,9 @@ If you're listening to some tunes on Spotify, it will show what you're listening
 <p><img height="150px" alt="Card with Spotify" src="https://files.catbox.moe/xd5nqp.png" /></p>
 
 ## Card Url Parameters
-Example url
+Example
 ```
-&bg=0b1622&txtColor=9fadbd&detailColor=677b94&fg=192231&borderRadius=6&fgopacity=0.9&logo=1&wide=1&
+&bg=0b1622&txtColor=9fadbd&detailColor=677b94&fg=192231&borderRadius=6&fgopacity=0.9&logo=1&wide=1
 ```
 `theme` Changes your banner theme. (0-2)<br>
 Example: theme=1
@@ -92,7 +92,7 @@ Example: theme=0&wide=1
 Example: theme=0&wide=1&lgbg=1
 
 ## Project Setup
-<h4><a href="https://github.com/KanashiiDev/DiscordBadge">(required Discord Badge Bot)</a><br><br><h4>
+<h4><a href="https://github.com/KanashiiDev/DiscordBadge">(required Discord Badge Bot)</a><br><br></h4>
 **This project depends on Vercel's serverless functions.** First install the Vercel CLI by doing `npm i -g vercel`.
 
 If you'd like to run this project locally, you will first need a Discord bot account. You can create one by following [this guide](https://discordpy.readthedocs.io/en/stable/discord.html).

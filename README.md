@@ -2,20 +2,20 @@
 
 If you're not playing anything, it will just show your status:
 
-<p><img height="150px" alt="Card Default" src="https://files.catbox.moe/ww824g.png" /></p>
+<p><img height="150px" alt="Card Default" src="https://files.catbox.moe/fhaua6.png" /></p>
 
 If you're offline, it will look something like this:
 
-<p><img height="150px" alt="Card Offline" src="https://files.catbox.moe/eckvqh.png" /></p>
+<p><img height="150px" alt="Card Offline" src="https://files.catbox.moe/cviufc.png" /></p>
 
 If you're listening to some tunes on Spotify, it will show what you're listening to:
 
-<p><img height="150px" alt="Card with Spotify" src="https://files.catbox.moe/wxtnyl.png" /></p>
+<p><img height="150px" alt="Card with Spotify" src="https://files.catbox.moe/xd5nqp.png" /></p>
 
 ## Card Url Parameters
 Example url
 ```
-&bg=0b1622&txtColor=9fadbd&detailColor=677b94&fg=192231&borderRadius=6&fgopacity=0.9&logo=1&wide=1&lgbg=1
+&bg=0b1622&txtColor=9fadbd&detailColor=677b94&fg=192231&borderRadius=6&fgopacity=0.9&logo=1&wide=1&
 ```
 `theme` Changes your banner theme. (0-2)<br>
 Example: theme=1
@@ -68,7 +68,7 @@ Example: hidebg=1
 Example: bgm=1
 
 `fgopacity`
- If you have custom background image, using with bgm=1 changes opacity of foreground color, using with bgm=2 changes opacity of background color. (0.0-1.0)<br>
+ If you have custom background image, using with bgm=1 changes opacity of foreground color,<br> using with bgm=2 changes opacity of background color. (0.0-1.0)<br>
 Example: fgopacity=0.5
 
 `bgposx - bgposy`

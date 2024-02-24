@@ -92,7 +92,7 @@ Example: theme=0&wide=1
 Example: theme=0&wide=1&lgbg=1
 
 ## Project Setup
-
+<h4><a href="https://github.com/KanashiiDev/DiscordBadge">(required Discord Badge Bot)</a><br><br><h4>
 **This project depends on Vercel's serverless functions.** First install the Vercel CLI by doing `npm i -g vercel`.
 
 If you'd like to run this project locally, you will first need a Discord bot account. You can create one by following [this guide](https://discordpy.readthedocs.io/en/stable/discord.html).

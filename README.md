@@ -4,6 +4,10 @@ If you're not playing anything, it will just show your status:
 
 <p><img height="150px" alt="Card Default" src="https://files.catbox.moe/fhaua6.png" /></p>
 
+If you are playing a game it will look like this:
+
+<p><img height="150px" alt="Card Playing" src="https://files.catbox.moe/2npy4z.png" /></p>
+
 If you're offline, it will look something like this:
 
 <p><img height="150px" alt="Card Offline" src="https://files.catbox.moe/cviufc.png" /></p>

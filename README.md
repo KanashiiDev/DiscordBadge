@@ -2,19 +2,19 @@
 
 If you're not playing anything, it will just show your status:
 
-<p><img height="150px" alt="Card Default" src="https://files.catbox.moe/fhaua6.png" /></p>
+<p><img height="150px" alt="Card Default" src="https://files.catbox.moe/12tasr.png" /></p>
 
 If you are playing a game it will look like this:
 
-<p><img height="150px" alt="Card Playing" src="https://files.catbox.moe/2npy4z.png" /></p>
+<p><img height="150px" alt="Card Playing" src="https://files.catbox.moe/yoleeu.png" /></p>
 
 If you're offline, it will look something like this:
 
-<p><img height="150px" alt="Card Offline" src="https://files.catbox.moe/cviufc.png" /></p>
+<p><img height="150px" alt="Card Offline" src="https://files.catbox.moe/t5v6gt.png" /></p>
 
 If you're listening to some tunes on Spotify, it will show what you're listening to:
 
-<p><img height="150px" alt="Card with Spotify" src="https://files.catbox.moe/xd5nqp.png" /></p>
+<p><img height="150px" alt="Card with Spotify" src="https://files.catbox.moe/9wofes.png" /></p>
 
 ## Card Url Parameters
 Example

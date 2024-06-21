@@ -290,8 +290,8 @@ class Card {
   }
   img#pfp-image {
     border-radius: 50px;
-    -webkit-mask-image: radial-gradient( circle 10px at -webkit-calc(100% - 8px) -webkit-calc(100% - 8px), transparent 30px, #000 0 );
-    mask-image: radial-gradient( circle 10px at calc(100% - 8px) calc(100% - 8px), transparent 30px, #000 0 );
+    -webkit-mask-image: radial-gradient( circle 10px at -webkit-calc(100% - 8px) -webkit-calc(100% - 8px), transparent 10px, #000 0 );
+    mask-image: radial-gradient( circle 10px at calc(100% - 8px) calc(100% - 8px), transparent 10px, #000 0 );
   }
   img#detail-image {
     border-radius: 4px;
